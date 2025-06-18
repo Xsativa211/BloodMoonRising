@@ -1,0 +1,11 @@
+[bot]
+# Your discord bot token - taken from the discord developer portal after creating your bot
+token = 
+
+# These channels all require ID's, in discord right click and copy a link to a channel, the ID will be on the end e.g. https://discord.com/channels/<server_id>/<channel_id>
+# User notifications
+users channel = 
+# Chat mirroring (one way from game to discord)
+chat channel = 
+# Skill notifications
+skill channel = 
